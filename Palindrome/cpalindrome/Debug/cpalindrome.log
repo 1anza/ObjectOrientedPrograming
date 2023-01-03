@@ -1,0 +1,3 @@
+﻿  cpalindrome.cpp
+C:\Users\Mac\source\repos\Palindrome\cpalindrome\cpalindrome.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+  cpalindrome.vcxproj -> C:\Users\Mac\source\repos\Palindrome\Debug\cpalindrome.exe
