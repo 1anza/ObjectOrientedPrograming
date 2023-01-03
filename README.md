@@ -1,2 +1,2 @@
 # ObjectOrientedPrograming
-Where I implemented classes and objects across dependent systems to streamline workflow
+Where I discovered how to use classes and objects in software envrionments using C++.
